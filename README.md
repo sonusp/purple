@@ -4,7 +4,7 @@ Purple Notes Management system allows you to easily
 manage all kinds of Notes by uploading it unified place.
 
 
-Awesome Features
+Awesome Features :
 
  Upload Various Files - User can upload various
 types of files like PDF, PPT, and DOC etc...
@@ -36,5 +36,7 @@ saves time, super easy to use.
 
 
 TOOLS:
+
  WEB SERVER : Xampp
+
  BROWSER : Chrome
